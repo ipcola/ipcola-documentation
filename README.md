@@ -1,41 +1,20 @@
 # 👋 关于IPCola
 
-## Overview
+IPCola帮助文档将为您提供技术帮助，设置指南，代码示例和故障排除文章。
 
-Here are a couple of example overviews from products with really great docs:
+**想上微信或者Telegram联系？** _扫一扫二维码_
 
-> Loom is a video messaging tool that helps you get your message across through instantly shareable videos.
->
-> With Loom, you can record your camera, microphone, and desktop simultaneously. Your video is then instantly available to share through Loom's patented technology.
->
-> — From the [Loom Docs](https://support.loom.com/hc/en-us/articles/360002158057-What-is-Loom-)
 
-> The Mailchimp Marketing API provides programmatic access to Mailchimp data and functionality, allowing developers to build custom features to do things like sync email activity and campaign analytics with their database, manage audiences and campaigns, and more.
->
-> — From the [Mailchimp Marketing API docs](https://mailchimp.com/developer/marketing/docs/fundamentals/)
 
-## Quick links
+有关高级代码示例，请到我们的 GitHub 页面
 
-{% content-ref url="overview/what-we-do.md" %}
-[what-we-do.md](overview/what-we-do.md)
-{% endcontent-ref %}
+支持电子邮件：[support@ipcola.com](mailto:support@ipcola.com)
 
-{% content-ref url="overview/our-features.md" %}
-[our-features.md](overview/our-features.md)
-{% endcontent-ref %}
 
-## Get Started
 
-We've put together some helpful guides for you to get setup with our product quickly and easily.
+Oxylabs **GitHub** 是一个好去处，让您获得如何使用最流行编程语言（如 C#、Java、NodeJs、PHP、Python等）抓取网站、使用我们的工具、推行产品或整合产品的教程。
 
-{% content-ref url="fundamentals/getting-set-up/" %}
-[getting-set-up](fundamentals/getting-set-up/)
-{% endcontent-ref %}
+在**常见问题**页面上，您会找到关于我们的代理和爬虫的常见问题，以及关于计费、免费工具和其他问题。
 
-{% content-ref url="fundamentals/getting-set-up/setting-permissions.md" %}
-[setting-permissions.md](fundamentals/getting-set-up/setting-permissions.md)
-{% endcontent-ref %}
+您可以在左侧菜单找到所有提到的部分。
 
-{% content-ref url="fundamentals/getting-set-up/inviting-members.md" %}
-[inviting-members.md](fundamentals/getting-set-up/inviting-members.md)
-{% endcontent-ref %}
