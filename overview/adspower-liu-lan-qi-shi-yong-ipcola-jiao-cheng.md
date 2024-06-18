@@ -17,7 +17,7 @@
 
 三、生成账号密码，您可点击**动态代理—账密模式—增加需要的参数—点击生成链接**，代理类型上ipcola同时支持HTTP与SOCKS5。
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 下面的是代理链接的解读
 
@@ -34,6 +34,6 @@ proxy.hideiqxshlgvjk.com:5050:ipcola123-type-residential-location-US:ipcola123
 
 ```
 
-按照视频操作即可，如果有疑问可以加入TG群组交流。[https://t.me/ipcolacn](https://t.me/ipcolacn)
+按照视频操作即可
 
 {% embed url="https://www.youtube.com/watch?v=DivWU7Q2O6o" %}
